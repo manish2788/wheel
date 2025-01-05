@@ -1,0 +1,19 @@
+{
+  "name": "wheel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish2788/wheel.git"
+  },
+  "author": "Manish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manish2788/wheel/issues"
+  },
+  "homepage": "https://github.com/manish2788/wheel#readme"
+}
